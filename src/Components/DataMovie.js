@@ -1,4 +1,4 @@
-import { Rating } from "react-simple-star-rating"
+
 
 export const Data=[
 
@@ -32,4 +32,3 @@ trailerSrc:"https://youtu.be/65xa8TG2G8o",
 
 
 
-export default DataMovie;
